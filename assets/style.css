@@ -1,0 +1,41 @@
+body {
+  width: 75%;
+  margin: 10px 15%;
+}
+
+label {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 0;
+  width: 100px;
+  text-align: right;
+  vertical-align: top;
+}
+input,
+select,
+button {
+  padding: 5px;
+}
+.form-group {
+  margin-bottom: 8px;
+}
+.red {
+  color: #e00;
+}
+table {
+  border-collapse: collapse;
+}
+thead {
+  background: #ddd;
+}
+td,
+th {
+  padding: 5px;
+}
+h4 {
+  margin: 0;
+  margin-bottom: 5px;
+}
+.pull-right {
+  float: right;
+}

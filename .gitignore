@@ -1,0 +1,12 @@
+# Ignore composer generated files
+vendor/
+
+# Ignore PHPStorm files
+.idea/
+
+# Ignore PHP error logs
+error_log
+
+# Ignore cache files
+.cache/
+logs/

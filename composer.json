@@ -1,0 +1,14 @@
+{
+    "name": "mba/php-crud",
+    "description": "this is a simple curd application with php and pdo",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Muhammed",
+            "email": "muhammadburhan964@gmail.com"
+        }
+    ]
+}
