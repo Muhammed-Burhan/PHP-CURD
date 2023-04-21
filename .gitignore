@@ -10,3 +10,6 @@ error_log
 # Ignore cache files
 .cache/
 logs/
+
+# Igonre .env file 
+.env
