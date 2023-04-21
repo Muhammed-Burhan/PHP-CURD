@@ -18,9 +18,9 @@ follow these steps:
    composer install
 ```
 
-3. Change the database connection variables in `.env`:
+3. create `.env` file and add `database` variables.
 
-4. open XAMPP and start apache and mysql (you must clone the project in xamp/htdocs folder)
+4. open XAMPP and start apache and mysql (you must clone the project in xamp/htdocs folder).
 
 5. go to your browser and paste this URL:
 
