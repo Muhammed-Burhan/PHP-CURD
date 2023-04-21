@@ -11,5 +11,8 @@ error_log
 .cache/
 logs/
 
+.gitginore/
+
 # Igonre .env file 
 .env/
+.env
