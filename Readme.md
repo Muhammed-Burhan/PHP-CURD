@@ -9,7 +9,7 @@ follow these steps:
 1. Clone the repository and open the project:
 
 ```
-   git clone https://github.com/Muhammed-Burhan/PHP-CRUD.git
+   git clone https://github.com/Muhammed-Burhan/PHP-CURD.git
 ```
 
 2. install the necessary packages using composer:
@@ -46,4 +46,4 @@ The table has the following columns:
 | `phone`           | string  | Phone number of the contact        |
 | `address`         | string  | Address of the contact             |
 
-The `id` column is the primary key in table and it's set to auto increment.
+The `id` column is the primary key in the table and it's set to auto increment.
